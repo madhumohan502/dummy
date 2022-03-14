@@ -42,7 +42,7 @@ class _MyHomePageState extends State<MyHomePage> {
   var bodyOneO = "";
   var bodyTwo = "";
   var headerOne = "";
-  var headerTwo = "";
+  var headerTwo = "mohan";
 
   final SanityClient sanityClient = SanityClient(
     projectId: 'yourprojectid',
